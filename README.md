@@ -1,2 +1,1 @@
-# BendyBot
-BendyBot the discord bot you will love
+http://imgur.com/2IorqQb
