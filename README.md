@@ -35,5 +35,7 @@ If you need any more help with anything, join [this server](https://discord.gg/Z
 * [Node](https://nodejs.org/en/) - The runtime
 * [Discord.js](https://discord.js.org/#/) - The Library
 
-## Contributing
+## Authors
+* **Saad meliti** 
+* **Teller of fortune**
 
